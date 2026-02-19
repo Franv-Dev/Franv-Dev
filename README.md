@@ -18,7 +18,7 @@
 
 ## 🧠 About Me
 
-- 🎓 I'm currently in my 2nd year of Software Development.
+- 🎓 I'm currently in my 3er year of Software Development.
 - 💻 Focused on improving my **backend development** skills with Python and Flask.
 - 🤝 I enjoy working in teams, sharing ideas, and learning from others.
 - 🚀 I'm proactive, self-taught, and always looking for new challenges.
